@@ -1,4 +1,4 @@
-const 메인페이지 = () => {
+    const 메인페이지 = () => {
 
     const [구독자수담는통, 구독자수변경해주는함수] = React.useState(0)
 
