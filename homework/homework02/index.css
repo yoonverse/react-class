@@ -88,6 +88,17 @@ body {
     height: 336px;
 }
 
+.error-text {
+    font-family: Pretendard Variable;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: var(--red, #F66A6A);
+    margin-top: 8px;
+}
+
 .zipcode-row {
     display: flex;
     gap: 8px;
